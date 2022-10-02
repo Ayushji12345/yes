@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -30,9 +30,38 @@
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+    transorm: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
+} */
+
+h1{
+  text-align: center;
+  margin-bottom: 15px;
+}
+.text{
+  margin-top: 30px
+}
+.form{
+  margin-left: 30%;
+}
+.c1{
+  width: 180px;
+  height: 50px;
+  margin-left: 5px;
+  margin: 5px;
+}
+.c2{
+  margin-left: 15px;
+  width: 120px;
+  height: 43px;
+}
+.btnn{
+  margin-left: 3px;
+}
+
+.btn1{
+  margin-left: 55%;
 }
